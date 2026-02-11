@@ -1,0 +1,93 @@
+{
+  "Fever": ["fever","fevr","feveer","feaver","fvr","fiver","feverish","fevarish","febrile","high temperature","high temp","chills","shivering","rigors","low grade fever","pyrexia"],
+  
+  "GIT": [
+    "abdominal pain","stomach pain","epigastric pain","colicky","colic","nausea","vomiting","vomitting","vomit",
+    "diarrhea","diarrhoea","loose stools","loose stool","loose motion","loose motions","dysentery",
+    "heartburn","acidity","gastritis","bloating","gas","food poisoning",
+    "constipation","dyspepsia","indigestion",
+    "abdominal cramps","lower abdomen cramps","abdominal discomfort","bloating sensation","bloated abdomen","epigastric discomfort","feeling indigestion",
+    "continuous hiccups", "hiccups"
+  ],
+  
+  "URTI (moderate)": ["cold","cough","runny nose","running nose","sore throat","sorethroat","throat irritation","throat pain","sneezing","sneez","productive cough","dry cough","upper respiratory tract infection"],
+  
+  "URTI (mild)": ["common cold","mild cold","mild cough","common cold-like symptoms"],
+  
+  "URTI (other)": ["pharyngitis","laryngitis","rhinitis","sinusitis","sinus"],
+  
+  "ENT": ["earache","ear pain","tinnitus","nasal block","nasal obstruction","otitis","ear discharge","sinus pain","throat","sorethroat","throat irritation","running nose"],
+  
+  "Headache": ["headache","head ache","head pain","hedache","headach","headake","headche","tension headache","frontal headache","one-sided headache","heaviness head"],
+  
+  "Migraine": ["migraine","one-sided headache","one sided headache","migraine aura"],
+  
+  "Anxiety": ["anxiety","anxious","stress","panic","panic attack","palpitations anxiety"],
+  
+  "GRBS Checkup": ["grbs checking","grbs","blood sugar","sugar","diabetes","sugar checkup","sugar levels","random blood sugar","rbs","fbs","ppbs","sugar test","cbg","capillary blood glucose"],
+  
+  "Giddiness": ["giddiness","giddines","dizziness","dizines","lightheaded","vertigo","reeling","head reeling","giddiness on standing"],
+  
+  "Tooth Ache": ["toothache","tooth pain","dental pain","gum pain","tooth abscess","dental"],
+  
+  "Musculoskeletal": [
+    "muscle pain","body ache","bodyache","back pain","neck pain","shoulder pain","elbow pain","knee pain","leg pain",
+    "ankle pain","ankle twist","ankle twisting","leg twist","thumb pain","finger pain","joint pain","joint swelling",
+    "myalgia","musculoskeletal pain","sprain","strain","numbness","neck stiffness"
+  ],
+  
+  "Allergy": ["allergy","allergic","rash","itch","itching","urticaria","hives","skin allergy","skin rash"],
+  
+  "Dressing": ["dressing","wound","cut injury","clw wound","sutures","stitch removal","wound dressing","dressing change","bleeding wound","stitch"],
+  
+  "RTA": ["rta","road traffic accident","road accident","accident","bike accident","car accident","bus accident","auto accident","truck accident","lorry accident","collision","hit by bike","hit by car","hit by vehicle","fell from bike","bike fell","vehicle accident","road traffic","two wheeler accident","four wheeler accident","skid on bike"],
+  
+  "BP Checkup": ["blood pressure checkup","bp checkup","blood pressure","high bp","hypertension","bp monitoring","bp check"],
+  
+  "Injury & Trauma": [
+    "injury","trauma","fracture","sprain","swelling","falldown","fall","twisting","laceration","abrasion","contusion",
+    "head injury","rt injury","lt injury","finger cut","knife cut","stab wound","stabbed","cut wound","bleeding wound",
+    "deep cut","puncture wound","foreign body","splinter","glass injury","human bite","animal bite","dog bite","cat bite",
+    "snake bite","insect bite","bee sting","bee bite","bleed from right toe due skid from bike outside",
+    "left leg ankle twist outside","cut","cut finger","cut thumb","thumb cut","thumb laceration","laceration",
+    "bleed","bleeding","finger","thumb","toe","ankle swelling","ankle twist injury","abrasion","abration","scrape",
+    "cut","laceration","wound","bleeding","injury","fall","trauma","fracture","sprain","twist","swelling","shoe bite","bite","sting","burn","scald",
+    "abrusion", "skin abrassion", "abrusi",
+    "bit by", "shoe bit"
+  ],
+  
+  "General Malaise & Systemic": [
+    "malaise","weakness","fatigue","tired","tiredness","exhaustion","dehydration","generalized weakness",
+    "feeling weak","poor appetite","body ache","unwell","sleep disturbance","sleeplessness","insomnia",
+    "uneasy", "uneasy discomfort"
+  ],
+  
+  "Gynecological": [
+    "period cramps","period pain","menorrhagia","pv bleeding","dysmenorrhea","menstrual pain",
+    "heavy menstrual bleeding","heavy periods","heavy flow","first menstrual",
+    "menstrual cramps", "menstrual cramps amenorrhea", "menstural cramps",
+  "menstrual cramps she periods", "irregular periods",
+  "date period high flow menstrual", "high flow menstrual"
+  ],
+  
+  "Cardiovascular / Chest Issues": ["chest pain","chest discomfort","palpitation","palpitations","cardiac","shortness of breath","breathlessness","difficulty breathing","breathing difficulty","wheezing","wheez","dyspnea","breathlessness on exertion","sudden breathlessness"],
+  
+  "Skin & Dermatological": [
+    "skin peel","burning sensation","boil","pimples","acne","eczema","dermatitis","swelling skin",
+    "skin infection","insect bite reaction","shoe bite","itching skin","cellulitis","blister","burn","scald",
+    "thermal burn","chemical burn","mouth ulcer","oral ulcer","tongue ulcer","redness","generalised redness",
+    "bee bite","bee sting","insect bite","unknown insect bite","insect bite outside","skin lesion","skin lesions","skin dryness"
+  ],
+  
+  "Poisoning / Toxicity": ["poisoning","food poisoning","pesticide ingestion","chemical ingestion","drug overdose","overdose","snake envenomation","snake bite envenomation","toxin exposure"],
+  
+  "General Checkup": ["checkup","general checkup","medical fitness certification","medical fitness","medical certificate","fitness certificate","fitness for duty","medical fitness certification request","came month medical","came medical finess certification","mhc","medical health checkup "],
+  
+  "Test": ["test","test call","testing call","testcall","lab test","blood test","xray","ecg","mri","ultrasound"],
+  
+  "Eyes": ["eye","eyes","vision","blurry vision","blurred vision","eye pain","red eye","eye discharge","watering from eye"],
+  
+  "Pain (non Traumatic)": ["pain","ache","burning sensation","general pain","non traumatic pain","non-traumatic pain"],
+  
+  "Other": ["reassurance","certification","mhc","xyz","no complaints","nil complaints","asymptomatic","follow up","came consult dr malay sarkar","steam inhalation","biopsy report","physiotherapy","gout","headset", "increase body temparature", "gout", "physiotheraphy", "biopsy report", "steam inhalation"]
+}

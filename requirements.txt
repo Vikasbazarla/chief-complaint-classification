@@ -1,0 +1,13 @@
+pandas
+numpy
+spacy
+symspellpy
+rapidfuzz
+scikit-learn
+torch
+transformers
+fastapi
+uvicorn
+sentence-transformers
+setfit
+datasets

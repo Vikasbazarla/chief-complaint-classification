@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# ML artifacts
+artifacts/
+checkpoints/
+
+# Large models
+models/*.bin
+models/*.pt
+models/*.pkl
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+# ClinicalBERT models
+data/clinicalbert_final/
+data/clinicalbert_results/

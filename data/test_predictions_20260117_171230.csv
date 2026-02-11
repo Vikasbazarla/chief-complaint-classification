@@ -1,0 +1,576 @@
+processed,true_primary,pred_primary
+fever sore throat,Fever,Fever
+dizziness,Giddiness,Giddiness
+cough,URTI (moderate),URTI (moderate)
+headache,Headache,URTI (other)
+fever running nose,Fever,Fever
+giddiness fell down right knee pain,RTA,RTA
+cold headache,URTI (moderate),URTI (moderate)
+mouth ulcer,Skin & Dermatological,Skin & Dermatological
+right injury,Injury & Trauma,Injury & Trauma
+fever running nose,Fever,Fever
+cold fever,Fever,Fever
+cold,URTI (moderate),URTI (moderate)
+left ear pain cold,URTI (moderate),ENT
+throat pain fever cold,Fever,Fever
+fever cold,Fever,Fever
+fever,Fever,Fever
+headache houe disturbed bleeding pattern,Injury & Trauma,Injury & Trauma
+chills cough nasal block,Fever,ENT
+sore throat cold cough,URTI (moderate),URTI (moderate)
+blood pressure checkup up height work,BP Checkup,BP Checkup
+throat pain cough,URTI (moderate),URTI (moderate)
+medical fitness,General Checkup,General Checkup
+headache,Headache,URTI (other)
+right ear pain,ENT,ENT
+lowr eye lid pain swelling,Injury & Trauma,Injury & Trauma
+runny nose throat irritation,URTI (moderate),URTI (moderate)
+running nose throat sore,URTI (moderate),URTI (moderate)
+headache nausea,GIT,GIT
+fever throat pain headache pain from,Fever,Fever
+fever pain,Fever,Fever
+vertigo weakness,General Malaise & Systemic,General Malaise & Systemic
+sore throat cough,URTI (moderate),URTI (moderate)
+dizziness 2-3 checked capillary blood glucose,Giddiness,Giddiness
+cold running nose,URTI (moderate),URTI (moderate)
+fever cough running nose,Fever,Fever
+hand pain,Musculoskeletal,Musculoskeletal
+dizziness,Giddiness,Giddiness
+fever,Fever,Fever
+left ankle joint twist faaldown back pain swelling,Injury & Trauma,Injury & Trauma
+runny nose nasal block,URTI (moderate),ENT
+abdominal pain vomiting spicy,GIT,GIT
+teeth pain,Pain (non Traumatic),Pain (non Traumatic)
+giddiness,Giddiness,Giddiness
+running nose sore throat pain,URTI (moderate),URTI (moderate)
+malaise headache,General Malaise & Systemic,General Malaise & Systemic
+heada,Headache,Other
+loose stools,GIT,GIT
+epigastric pain abdominal acne had non veg,GIT,GIT
+giddiness nausea 10mints,GIT,Giddiness
+cough acne,URTI (moderate),Skin & Dermatological
+throat pain cold,URTI (moderate),URTI (moderate)
+cold cough ear pain,URTI (moderate),ENT
+unknown insect bite,Injury & Trauma,Injury & Trauma
+fever cold sore throat,Fever,Fever
+nausea vomiting,GIT,GIT
+periods crams high flow,Gynecological,Gynecological
+cold sore throat throat irritation dry cough headache frontal region,URTI (moderate),URTI (moderate)
+cold fever,Fever,Fever
+abdominal discomfort,GIT,GIT
+back pain 2-3 lifting heavy weight,Musculoskeletal,Musculoskeletal
+running nose sore throat headache pain 1day,URTI (moderate),URTI (moderate)
+acidity,GIT,GIT
+acne joint pain 4hrs,Musculoskeletal,Skin & Dermatological
+lower back pain,Musculoskeletal,Musculoskeletal
+right shoulder pain,Musculoskeletal,Musculoskeletal
+skin nail peel left small toe,Injury & Trauma,Injury & Trauma
+muscle pain improper bleeding posture,Injury & Trauma,Injury & Trauma
+running nose dull acking headache 4hrs,URTI (moderate),URTI (moderate)
+raju,Other,Other
+fever cough,Fever,Fever
+low injury,Injury & Trauma,Injury & Trauma
+throat pain fever,Fever,Fever
+thraot pain,Pain (non Traumatic),Pain (non Traumatic)
+cold,URTI (moderate),URTI (moderate)
+bachache,Pain (non Traumatic),Other
+dizziness,Giddiness,Giddiness
+pain abdomen burning cough,URTI (moderate),Pain (non Traumatic)
+cold cough pain,URTI (moderate),URTI (moderate)
+skin itching,Skin & Dermatological,Allergy
+lower abdomen pain,Pain (non Traumatic),Pain (non Traumatic)
+nausea vomiting abdomen pain colicky off 1day,GIT,GIT
+mouth ulcer pain,Pain (non Traumatic),Skin & Dermatological
+nausea,GIT,GIT
+frontal headache,Headache,Headache
+loose stools,GIT,GIT
+fever bodyache sore throat 1day,Fever,Fever
+legs pain,Pain (non Traumatic),Pain (non Traumatic)
+epigastric pain bodyache,GIT,GIT
+epigastric pain,GIT,GIT
+abdomen pain loose stools,GIT,GIT
+running nose pain from,URTI (moderate),URTI (moderate)
+abrasion right knee,Injury & Trauma,RTA
+injury while right hand elbow ulceration,Injury & Trauma,Injury & Trauma
+fever cough from,Fever,Fever
+headache cold,URTI (moderate),URTI (moderate)
+pain center chest giddiness,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+left ear pain,ENT,ENT
+throat pain,URTI (moderate),URTI (moderate)
+left hand index finger redness unknown insect bite,Injury & Trauma,Injury & Trauma
+acidity burning sensationwhen peeing week,GIT,GIT
+loose stool headache,GIT,GIT
+nausea gastric pain,GIT,Pain (non Traumatic)
+abdomen pain nausea vomiting,GIT,GIT
+runny nose travelling present,URTI (moderate),URTI (moderate)
+left calf muscle pain,Musculoskeletal,Musculoskeletal
+ral ulcer pain,Pain (non Traumatic),Pain (non Traumatic)
+cold fever sore throat,Fever,Fever
+dizziness vomiting,GIT,Giddiness
+sore throat headache,URTI (moderate),URTI (moderate)
+cold headache pain,URTI (moderate),URTI (moderate)
+cold nasal block fever,Fever,ENT
+bodyache,Musculoskeletal,Musculoskeletal
+throat pain fever,Fever,Fever
+right below knee ulceration wound self fall wheeler parking,RTA,RTA
+toothache last2-3,Pain (non Traumatic),Pain (non Traumatic)
+right knee muscle pain heavy exercises,Musculoskeletal,Musculoskeletal
+complaints he fever,Fever,Fever
+fever weakness,Fever,General Malaise & Systemic
+right tooth acne,Skin & Dermatological,Skin & Dermatological
+fever cold cough,Fever,Fever
+cold runny nose cough,URTI (moderate),URTI (moderate)
+dry cough,URTI (moderate),URTI (moderate)
+running nose headache fever,Fever,Fever
+fever,Fever,Fever
+left wrist pain mins,Pain (non Traumatic),Pain (non Traumatic)
+weakness,General Malaise & Systemic,General Malaise & Systemic
+backpain,Pain (non Traumatic),Pain (non Traumatic)
+common cold,URTI (moderate),URTI (moderate)
+nausea headache,GIT,GIT
+skin itching past minutes,Skin & Dermatological,Allergy
+skin allergy backside neck,Allergy,Allergy
+running nose sore throat acne,URTI (moderate),URTI (moderate)
+headache nausea,GIT,GIT
+cold bodyache,URTI (moderate),URTI (moderate)
+dull itching frontal headache past,Headache,Headache
+pain chills cold,Fever,Fever
+cold sorethroat,URTI (moderate),URTI (moderate)
+right eye pain,Pain (non Traumatic),Eyes
+stomach pain acidity intake spicy,GIT,GIT
+cold dry cough nd throat pain,URTI (moderate),URTI (moderate)
+cut injury right index finger injury,Injury & Trauma,Injury & Trauma
+cold running nose headache,URTI (moderate),URTI (moderate)
+shoes bite feet,Injury & Trauma,Injury & Trauma
+eye irritation,Eyes,Eyes
+throat irritation cold,URTI (moderate),URTI (moderate)
+pain posterior aspect thigh accidental fall ta while getting down stairs,RTA,RTA
+pain from putting dental braces put,Pain (non Traumatic),Pain (non Traumatic)
+legpain,Pain (non Traumatic),Other
+left hand elbow pain,Musculoskeletal,Musculoskeletal
+cold cough runny nose,URTI (moderate),URTI (moderate)
+stomach pain vomiting,GIT,GIT
+cold wound right hand,Injury & Trauma,Injury & Trauma
+cold cough throt pain,URTI (moderate),URTI (moderate)
+fever cold,Fever,Fever
+giddiness,Giddiness,Giddiness
+fever headache pain,Fever,Fever
+fever 2-3,Fever,Fever
+headache cold,URTI (moderate),URTI (moderate)
+cough,URTI (moderate),URTI (moderate)
+cut wound inthe left hand,Injury & Trauma,Injury & Trauma
+cut injury right toe,Injury & Trauma,Injury & Trauma
+running nose sore throat from,URTI (moderate),URTI (moderate)
+right neck pain gym activity,Musculoskeletal,Musculoskeletal
+running nose from stated that he had curd,URTI (moderate),Other
+tooth acne,Skin & Dermatological,Skin & Dermatological
+stomach pain female,GIT,GIT
+sore throat pain cough,URTI (moderate),URTI (moderate)
+cold headache,URTI (moderate),URTI (moderate)
+cold runny nose headache,URTI (moderate),URTI (moderate)
+breathing difficulty,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+fever bodyache,Fever,Fever
+itching,Allergy,Allergy
+cold throat pain productive cough,URTI (moderate),URTI (moderate)
+throat pain bodyache,URTI (moderate),URTI (moderate)
+left foot abrasion following while playing cricket year his pg hostel,Injury & Trauma,Injury & Trauma
+fever vomiting,Fever,Fever
+fever bodyache 1day,Fever,Fever
+headache,Headache,URTI (other)
+fever chills,Fever,Fever
+pain evaluation,Pain (non Traumatic),Pain (non Traumatic)
+shivering giddiness,Fever,Giddiness
+acidity,GIT,GIT
+cold pain throat pain,URTI (moderate),URTI (moderate)
+headache frondal,Headache,Headache
+frontal headache,Headache,Headache
+common cold throat irritation,URTI (moderate),URTI (moderate)
+sore throat,URTI (moderate),URTI (moderate)
+motions 2episodes,Other,Other
+right foot swelling pain,Injury & Trauma,Injury & Trauma
+fever cold throat pain,Fever,Fever
+acidity loose motion,GIT,GIT
+pain chills,Fever,Pain (non Traumatic)
+swelling chest,Injury & Trauma,Cardiovascular / Chest Issues
+right neck stiffness improper bleeding position,Injury & Trauma,Injury & Trauma
+vomiting,GIT,GIT
+headache heart rare,Headache,Other
+vomiting nausea dizziness,GIT,GIT
+sore throat acne past,URTI (moderate),URTI (moderate)
+cold sore throat,URTI (moderate),URTI (moderate)
+loose stools nausea,GIT,GIT
+throat pain cough,URTI (moderate),URTI (moderate)
+low back pain non-traumatic,Musculoskeletal,Musculoskeletal
+cold throat pain,URTI (moderate),URTI (moderate)
+cold headache,URTI (moderate),URTI (moderate)
+skid fall while driving wheeler year pudhupakkam abrasions pain right elbow knee foot,RTA,RTA
+cold cough,URTI (moderate),URTI (moderate)
+frontal headache sore throat fever,Fever,Fever
+cold cough,URTI (moderate),URTI (moderate)
+headache cold,URTI (moderate),URTI (moderate)
+gastric pain,Pain (non Traumatic),Pain (non Traumatic)
+fever throat irritation,Fever,Fever
+abdominal pain,GIT,GIT
+pain eyebrows,Pain (non Traumatic),Pain (non Traumatic)
+weakness acidity abdominal pain,General Malaise & Systemic,General Malaise & Systemic
+right swelling,Injury & Trauma,Injury & Trauma
+right ear pain,ENT,ENT
+self fall,RTA,RTA
+right hand elbow pain,Musculoskeletal,Musculoskeletal
+pain,Pain (non Traumatic),Pain (non Traumatic)
+cold throat pain,URTI (moderate),URTI (moderate)
+fever pain,Fever,Fever
+loose stools stomach pain,GIT,GIT
+headache nausea past minutes,GIT,GIT
+nausea skipped breakfast,GIT,GIT
+cold pain,URTI (moderate),URTI (moderate)
+swelling lips,Injury & Trauma,Injury & Trauma
+cold cough throat pain running nose,URTI (moderate),URTI (moderate)
+thumb cut,Injury & Trauma,Injury & Trauma
+loose stools episodes,GIT,GIT
+left wrist pain,Pain (non Traumatic),Pain (non Traumatic)
+toothache,Pain (non Traumatic),Pain (non Traumatic)
+low acne period cramps period lmp-8,Gynecological,Gynecological
+eye irritation,Eyes,Eyes
+frontal headache wheezing running nose 6hrs,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+dizziness,Giddiness,Giddiness
+neck pain minutes,Musculoskeletal,Musculoskeletal
+frontal headache,Headache,Headache
+throat pain cold,URTI (moderate),URTI (moderate)
+fever cold,Fever,Fever
+lower abdominal pain headache,GIT,GIT
+nasal block,ENT,ENT
+common cold,URTI (moderate),URTI (moderate)
+cold running nose sorethroat,URTI (moderate),URTI (moderate)
+headache,Headache,URTI (other)
+skin itching past,Skin & Dermatological,Allergy
+fever runny nose decreased taste,Fever,Fever
+running nose frontal headache 8hrs,URTI (moderate),Headache
+epegatric pain 2-3,Pain (non Traumatic),Pain (non Traumatic)
+gum pain,Pain (non Traumatic),Pain (non Traumatic)
+fever bodyache 2-3,Fever,Fever
+pain right mandible inside mouth year molar tooth,Pain (non Traumatic),Pain (non Traumatic)
+headache giddiness,Headache,Giddiness
+sore throat running nose acne,URTI (moderate),URTI (moderate)
+loose stool stomach pain,GIT,GIT
+self fall injury rtgreat toe,RTA,RTA
+throat pain,URTI (moderate),URTI (moderate)
+headache dizziness,Headache,Headache
+slip fall by own pain swelling acne cut present left little finger bleeding,RTA,RTA
+leg pain,Musculoskeletal,Musculoskeletal
+2episode loose stool fever,Fever,GIT
+earpain,Pain (non Traumatic),Other
+hearing pain before after ear rash start when take tb zerodol spas per him consultant nose throat doctor advice,URTI (moderate),Allergy
+leg pain 1day,Musculoskeletal,Musculoskeletal
+running nose fever feel,Fever,Fever
+abdominal bloating nausea,GIT,GIT
+cold runny nose,URTI (moderate),URTI (moderate)
+fever bodyache cold 2-3,Fever,Fever
+fever throat irritation,Fever,Fever
+headache from sleep disturbances,Headache,Headache
+mouth ulcer white patches under tongue,Skin & Dermatological,Skin & Dermatological
+bilateral ankel pain acne,Pain (non Traumatic),Skin & Dermatological
+cold,URTI (moderate),URTI (moderate)
+vomiting episodes,GIT,GIT
+epitermic pain,Pain (non Traumatic),Pain (non Traumatic)
+left ear pain,ENT,ENT
+headache 2-3 acidity,GIT,GIT
+joint pain whether changes,Musculoskeletal,Musculoskeletal
+month ulcer,Skin & Dermatological,Skin & Dermatological
+stomach pain nausea,GIT,GIT
+throat irritation cold,URTI (moderate),URTI (moderate)
+cames blood pressure checkup up,BP Checkup,BP Checkup
+stomach pain,GIT,GIT
+nose bleeding 10am before,Injury & Trauma,Injury & Trauma
+running nose sore throat dry cough,URTI (moderate),URTI (moderate)
+fever,Fever,Fever
+left shoulder pain movement epigastric pain,GIT,Musculoskeletal
+throat pain irritation,URTI (moderate),URTI (moderate)
+stomach pain,GIT,GIT
+abdominal pain heartburn gassiness,GIT,GIT
+headache,Headache,URTI (other)
+fever throat irritation,Fever,Fever
+throat pain,URTI (moderate),URTI (moderate)
+nausea dizziness off epigastric pain 8hrs,GIT,GIT
+shoe bite,Injury & Trauma,Injury & Trauma
+running nose headache,URTI (moderate),URTI (moderate)
+cold running nose,URTI (moderate),URTI (moderate)
+pain right knee joint,Musculoskeletal,Musculoskeletal
+headache past,Headache,Headache
+legs pain,Pain (non Traumatic),Pain (non Traumatic)
+abdominal cramps,GIT,Gynecological
+loose stools nausea abdominal pain,GIT,GIT
+loose stools headache fever,Fever,Fever
+fever cold,Fever,Fever
+itching past mins,Allergy,Allergy
+nausea vomiting episods,GIT,GIT
+cold runny nose fever,Fever,Fever
+abdomen pain,Pain (non Traumatic),Pain (non Traumatic)
+headache cold cough,URTI (moderate),URTI (moderate)
+snezzing cold,URTI (moderate),URTI (moderate)
+fever vomiting episodes,Fever,Fever
+epigastric pain,GIT,GIT
+dry cough,URTI (moderate),URTI (moderate)
+giddiness left temporal headache,Headache,Headache
+fever week,Fever,Fever
+giddiness lower limb weakness,General Malaise & Systemic,General Malaise & Systemic
+fever pain,Fever,Fever
+cold sorethroat pain,URTI (moderate),URTI (moderate)
+vomiting acne weakness,General Malaise & Systemic,General Malaise & Systemic
+running nose fever,Fever,Fever
+superficial cut right hand,Injury & Trauma,Injury & Trauma
+loose stools episodes,GIT,GIT
+cold throat pain,URTI (moderate),URTI (moderate)
+injury left elbow kneejoint pain,Injury & Trauma,Injury & Trauma
+right middle finger nail pilling skid table,RTA,RTA
+indigestion constipation,GIT,GIT
+giddiness,Giddiness,Giddiness
+cold fever,Fever,Fever
+cold throat irritation,URTI (moderate),URTI (moderate)
+kneepain throat pain,URTI (moderate),URTI (moderate)
+cold,URTI (moderate),URTI (moderate)
+giddiness,Giddiness,Giddiness
+left meedile finger cut injury,Injury & Trauma,Injury & Trauma
+gum bleeding swelling,Injury & Trauma,Injury & Trauma
+running nose from,URTI (moderate),URTI (moderate)
+running nose 4hrs,URTI (moderate),URTI (moderate)
+headache,Headache,URTI (other)
+redness stomach pain,GIT,GIT
+loose stool,GIT,GIT
+left hand palm surface injury,Injury & Trauma,Injury & Trauma
+loose stools semi solid stomach pain had foods past,GIT,GIT
+steam inhalation,Other,Other
+vomiting acidity,GIT,GIT
+nausea,GIT,GIT
+sleeplessness,General Malaise & Systemic,General Malaise & Systemic
+period cramps,Gynecological,Gynecological
+sore throat running nose fore head yellowish sputum,URTI (moderate),URTI (moderate)
+shoebite---21,Injury & Trauma,Other
+neck pain backside neck,Musculoskeletal,Musculoskeletal
+headache running nose,URTI (moderate),URTI (moderate)
+loose motion,GIT,GIT
+bodyache 1-2hrs,Musculoskeletal,Musculoskeletal
+right eye redness,Skin & Dermatological,Skin & Dermatological
+neck pain,Musculoskeletal,Musculoskeletal
+epigastric pain,GIT,GIT
+throat irritation pain 2-4,URTI (moderate),URTI (moderate)
+fever throat pain cold,Fever,Fever
+chills,Fever,Fever
+runny nose,URTI (moderate),URTI (moderate)
+fever 2-3,Fever,Fever
+skid fall while driving wheeler sholinganallur year his pg hostel abrasions left elbow knee foot,RTA,RTA
+increase temperatur headache fever weakness,Fever,General Malaise & Systemic
+uneasy discomfort spicy,General Malaise & Systemic,Cardiovascular / Chest Issues
+knee injury,Injury & Trauma,Injury & Trauma
+gastric pain skipped breakfast,Pain (non Traumatic),Pain (non Traumatic)
+left leg pain cold trauma,Injury & Trauma,Musculoskeletal
+stomach pain,GIT,GIT
+stomach acne,Skin & Dermatological,Skin & Dermatological
+headache vomiting sensation,GIT,GIT
+abrasion wound left hand elbow right knee skid wheeler,RTA,RTA
+headache fever,Fever,Fever
+sore throat headache 4hrs,URTI (moderate),URTI (moderate)
+fever throat pain,Fever,Fever
+cold runny nose sore throat,URTI (moderate),URTI (moderate)
+cold throat pain,URTI (moderate),URTI (moderate)
+nausea stomach pain,GIT,GIT
+cough cold,URTI (moderate),URTI (moderate)
+cold pain,URTI (moderate),URTI (moderate)
+left leg pain,Musculoskeletal,Musculoskeletal
+loose stools episods sore throat,GIT,GIT
+motions episodes,Other,GIT
+fever cold cough,Fever,Fever
+vomiting,GIT,GIT
+cold sneeze,URTI (moderate),URTI (moderate)
+pain palpitation,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+fever headache running nose taken augmentin mg dolo by herself brought from pharmacy,Fever,Fever
+neck pain improper bleeding posture,Injury & Trauma,Injury & Trauma
+oshoes bite,Injury & Trauma,Injury & Trauma
+throat pain,URTI (moderate),URTI (moderate)
+epigastric pain past,GIT,GIT
+left ear flu collection,Other,ENT
+bodyache headache cold cough,URTI (moderate),URTI (moderate)
+throat pain,URTI (moderate),URTI (moderate)
+headache minutes,Headache,Headache
+fever stomach burning sensation,Fever,Fever
+testing,Injury & Trauma,Test
+vomiting stomach pain past,GIT,GIT
+shoulder pain,Musculoskeletal,Musculoskeletal
+itching right neck,Allergy,Allergy
+running nose sore throat,URTI (moderate),URTI (moderate)
+injury knee joint,Injury & Trauma,Injury & Trauma
+abdominal pain,GIT,GIT
+swelling left hand below third finger,Injury & Trauma,Injury & Trauma
+vomiting sensation pcos,GIT,GIT
+frontal headache fever,Fever,Fever
+bleed from right toe skid bike,RTA,RTA
+giddiness,Giddiness,Giddiness
+right headache,Headache,Headache
+abrasion wound above left eyebrow hit against cabinet,Injury & Trauma,Injury & Trauma
+pain redness,Pain (non Traumatic),Skin & Dermatological
+fever pain,Fever,Fever
+wheezing itching,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+headache frontal region running nose,URTI (moderate),Headache
+left headache,Headache,Headache
+running nose wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+cold running nose throat pain,URTI (moderate),URTI (moderate)
+skin allergy,Allergy,Allergy
+giddiness 20mins,Giddiness,Giddiness
+bodyache fever weakness,Fever,General Malaise & Systemic
+throat pain runny nose,URTI (moderate),URTI (moderate)
+headache fever,Fever,Fever
+bloating sensation abdomen,GIT,Pain (non Traumatic)
+cold throat pain,URTI (moderate),URTI (moderate)
+running nose pain 1day,URTI (moderate),URTI (moderate)
+acidity headache vomiting tendency,GIT,GIT
+itching skin rash hand neck space,Skin & Dermatological,Allergy
+gastritis,GIT,GIT
+sore throat running nose acne,URTI (moderate),URTI (moderate)
+generalised bodyache,Musculoskeletal,Musculoskeletal
+cold cough,URTI (moderate),URTI (moderate)
+burning sensiation epigastric region,GIT,Injury & Trauma
+skin rash,Allergy,Allergy
+sore throat wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+running nose headache,URTI (moderate),URTI (moderate)
+acne sore throat,URTI (moderate),URTI (moderate)
+sarkar,Other,Other
+sheo bite,Injury & Trauma,Injury & Trauma
+headache gastric pain,Headache,Pain (non Traumatic)
+running nose headache 4hrs,URTI (moderate),URTI (moderate)
+epigastric pain past minutes,GIT,GIT
+running nose sore throat,URTI (moderate),URTI (moderate)
+abrasion right hand thumb,Injury & Trauma,Injury & Trauma
+cold fever,Fever,Fever
+frontoperaital headache past,Headache,Headache
+fever throat pain,Fever,Fever
+running nose wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+month medial checkup,General Checkup,General Checkup
+throat pain,URTI (moderate),URTI (moderate)
+running nose pain,URTI (moderate),URTI (moderate)
+tooth acne,Skin & Dermatological,Skin & Dermatological
+abrassion left hand middle finger,Injury & Trauma,Injury & Trauma
+left chest discomfort,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+throat pain cough,URTI (moderate),URTI (moderate)
+headache,Headache,URTI (other)
+running nose sore throat frontal headache,URTI (moderate),URTI (moderate)
+headache pain,Headache,Headache
+stomach pain,GIT,GIT
+nausea vomiting,GIT,GIT
+cold cough sore throat,URTI (moderate),URTI (moderate)
+throat pain cold,URTI (moderate),URTI (moderate)
+left hand pain weakness,General Malaise & Systemic,General Malaise & Systemic
+migraine headache from her std she adol,Migraine,Migraine
+acidity nausea fontal headache,GIT,GIT
+running nose headache,URTI (moderate),URTI (moderate)
+neck pain,Musculoskeletal,Musculoskeletal
+regulaer blood pressure checkup up,BP Checkup,BP Checkup
+fever acne running nose sore throat,Fever,Fever
+generalised fatigue cold,General Malaise & Systemic,General Malaise & Systemic
+cough cold,URTI (moderate),URTI (moderate)
+generalised weakness,General Malaise & Systemic,General Malaise & Systemic
+lnneack shoulder pain,Musculoskeletal,Musculoskeletal
+nausea fever cold,Fever,Fever
+generalised red ness whole,Skin & Dermatological,Allergy
+tired,General Malaise & Systemic,General Malaise & Systemic
+vomiting stomach pain,GIT,GIT
+loose stools,GIT,GIT
+left hand thumb injury while cutting fruits pg,Injury & Trauma,Injury & Trauma
+vomiting loose motion,GIT,GIT
+lower abdomen pain,Pain (non Traumatic),Pain (non Traumatic)
+abration right foot ankle,Injury & Trauma,Injury & Trauma
+running nose headache,URTI (moderate),URTI (moderate)
+left eye pain unknown cause,Pain (non Traumatic),Eyes
+loose motion,GIT,GIT
+fever pain,Fever,Fever
+stomach pain fever,Fever,Fever
+headache vomiting,GIT,GIT
+loose stools,GIT,GIT
+cold throat irritation,URTI (moderate),URTI (moderate)
+generalized pain redness 1st grade fever,Fever,Fever
+dressing cold wound,Injury & Trauma,Injury & Trauma
+headache,Headache,URTI (other)
+common cold headache,URTI (moderate),URTI (moderate)
+swelling pain left ankle joint,Injury & Trauma,Injury & Trauma
+bodyache sorethroat,URTI (moderate),Musculoskeletal
+fever nausea,Fever,Fever
+pain burning sensation,Pain (non Traumatic),Pain (non Traumatic)
+itching all after pcos launch,Allergy,Allergy
+headache bodyache,Headache,Headache
+fever cold,Fever,Fever
+wrist pain non-traumatic,Pain (non Traumatic),Pain (non Traumatic)
+gastritis,GIT,GIT
+headache cold,URTI (moderate),URTI (moderate)
+abdominal pain,GIT,GIT
+throatpain,Pain (non Traumatic),Pain (non Traumatic)
+fever,Fever,Fever
+lower abdomen pain,Pain (non Traumatic),Pain (non Traumatic)
+abrasion wound hit against door,Injury & Trauma,RTA
+cold ruinning nose,URTI (moderate),URTI (moderate)
+runny nose,URTI (moderate),URTI (moderate)
+sore throat runny nose,URTI (moderate),URTI (moderate)
+throat pain,URTI (moderate),URTI (moderate)
+itching all,Allergy,Allergy
+superfacial abrasion right elbow,Injury & Trauma,Injury & Trauma
+headache fever,Fever,Fever
+cold running nose,URTI (moderate),URTI (moderate)
+throat pain headache,URTI (moderate),URTI (moderate)
+right calf muscles pain 4hrs,Pain (non Traumatic),Pain (non Traumatic)
+vomiting acidity,GIT,GIT
+running nose fever 4hrs,Fever,Fever
+redness,Skin & Dermatological,Skin & Dermatological
+cold headache,URTI (moderate),URTI (moderate)
+tired pain,General Malaise & Systemic,Pain (non Traumatic)
+fever vomiting,Fever,Fever
+checkup,General Checkup,General Checkup
+headache improper sleep,Headache,Headache
+fever running nose sore throat cough green sputum,Fever,URTI (moderate)
+giddiness,Giddiness,Giddiness
+shoe bite,Injury & Trauma,Injury & Trauma
+dizziness 6hrs,Giddiness,Giddiness
+giddiness heaviness head,Headache,Giddiness
+cold,URTI (moderate),URTI (moderate)
+frontal temporal headache,Headache,Headache
+breathing difficulty,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+giddiness,Giddiness,Giddiness
+nausea vomiting,GIT,GIT
+frontal headache cold,URTI (moderate),Headache
+acidity 5am,GIT,GIT
+fever headache itchiness throat,Fever,Fever
+giddiness breathing difficulty,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+pain runninga nose,Pain (non Traumatic),URTI (moderate)
+ear pain 2-3,ENT,ENT
+weakness before,General Malaise & Systemic,General Malaise & Systemic
+left chest hand pain,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+running nose wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+running nose,URTI (moderate),URTI (moderate)
+headache 10mins,Headache,Headache
+left hand pain,Musculoskeletal,Musculoskeletal
+redness,Skin & Dermatological,Skin & Dermatological
+headache nausea,GIT,GIT
+headache cold,URTI (moderate),URTI (moderate)
+cold cough bodyache,URTI (moderate),URTI (moderate)
+abdomen pain vomiting,GIT,Pain (non Traumatic)
+migraine,Migraine,Migraine
+right hand pain wrist from,Musculoskeletal,Musculoskeletal
+eyes burning sensation,Pain (non Traumatic),Pain (non Traumatic)
+tired cold,General Malaise & Systemic,URTI (moderate)
+headache pain,Headache,Headache
+pigmented skin lesion itching,Skin & Dermatological,Skin & Dermatological
+back pain,Musculoskeletal,Musculoskeletal
+cold soare throat,URTI (moderate),URTI (moderate)
+toothache,Pain (non Traumatic),Pain (non Traumatic)
+cold wheezing,Cardiovascular / Chest Issues,Cardiovascular / Chest Issues
+throat pain difficulty swallowing,URTI (moderate),URTI (moderate)
+headache running nose,URTI (moderate),URTI (moderate)
+pain right molar,Pain (non Traumatic),Pain (non Traumatic)
+throat pain headache,URTI (moderate),URTI (moderate)
+headache past minutes,Headache,Headache
+left ear pain,ENT,ENT
+vertigo uneasyness fatigue,General Malaise & Systemic,General Malaise & Systemic
+throat irritation cold,URTI (moderate),URTI (moderate)
+giddiness,Giddiness,Giddiness
+pain right rips,Pain (non Traumatic),Pain (non Traumatic)
+cold cough drowsyns,URTI (moderate),URTI (moderate)
+fever redness,Fever,Fever
+vomiting,GIT,GIT

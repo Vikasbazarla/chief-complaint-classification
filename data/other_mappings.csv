@@ -1,0 +1,60 @@
+processed,count,examples,suggested_label,best_match_keyword,match_score,match_method
+empty,2,"back and side part of the body"", || back,side part of the body"",",Other,,0.0,none
+advised isolation conjectivities,1,"pt was advised isolation for 4days conjectivities"",",Other,,0.0,none
+,1,"NO  COMPLAINS"",",Other,,0.0,none
+amenorrhea further evaluation,1,"Amenorrhea further evaluvation"",",Other,,0.0,none
+biopsy report,1,"CONSULTATION WITH BIOPSY REPORT"",",Other,biopsy report,113.0,substr
+cames follow up general surgen opino,1,"patient cames for follow up advised general surgen opino on 2/7/2025 on"",",Other,follow up,109.0,substr
+enteritis,1,"ENTERITIS"",",Other,,0.0,none
+excess heat,1,"Excess of heat"",",Other,,0.0,none
+fitness certification,1,"Came for fitness Crtification"",",Other,certification,113.0,substr
+follow up,1,"FOLLOW UP"",",Other,follow up,109.0,substr
+furuncle left medial thigh past week,1,"C/O FURUNCLE ON LEFT MEDIAL THIGH PAST ONE WEEK"",",BP Checkup,high bp,85.71428571428572,fuzzy
+gout,1,"?GOUT"",",Other,gout,104.0,substr
+gynecology rare,1,"Gynecology care"",",Other,,0.0,none
+headset,1,"C/O HEADSET SINCE 2 DAYS"",",Other,headset,107.0,substr
+heartbeat heart rare too slow,1,"Heartbeat/heart Rate too slow"",",Other,,0.0,none
+increase body temparature,1,"patient is having increase body temparature no any other complain"",",Other,increase body temparature,125.0,substr
+involuntary movements right limb psychiatric medications recently week,1,"involuntary movements of the right  upper limb (on psychiatric medications recently one week )"",",Other,,0.0,none
+janani,1,"C/O JANANI"",",Other,,0.0,none
+left corn foot,1,"left corn foot"",",Other,,0.0,none
+left ear block,1,"LT EAR BLOCK"",",Other,,0.0,none
+left ear flu collection,1,"LT EAR FLUID COLLECTION FEELING SINCE MORNING"",",Other,,0.0,none
+left hand muscle spasm,1,"C/O LT HAND MUSCLE SPASM SINCE 3 DAYS"",",Other,,0.0,none
+left skin tag years rapid growth ulcer month,1,"c/o left leg skin tag for 2 yrs with rapid growth and ulcer for 1 month"",",Other,,0.0,none
+looesmotion,1,"LOOESMOTION"",",Other,,0.0,none
+looesmotions,1,"LOOESMOTIONS"",",GIT,loose motion,86.95652173913044,fuzzy
+loss consciousness,1,"c/o loss of consciousness"",",Other,,0.0,none
+loss motion,1,"LOSS MOTION"",",GIT,loose motion,85.71428571428572,fuzzy
+loss sleep,1,"lass of sleep 3to 4 days"",",Other,,0.0,none
+losse consciousness,1,"c/o losse of consciousness"",",Other,,0.0,none
+maxilary lateral incisor tooth,1,"MAXILARY LATERAL INCISOR TOOTH #"",",Other,,0.0,none
+medical fitnes certification,1,"Medical fitnes certification"",",Other,certification,113.0,substr
+motions 2episodes,1,"motions/2episodes morning on wards"",",Other,,0.0,none
+motions episodes,1,"motions 2 episodes morning on wards"",",Other,,0.0,none
+nasal congestion,1,"NASAL CONGESTION"",",GIT,indigestion,84.21052631578947,fuzzy
+nasal irritaion,1,"nasal irritaion"",",Other,,0.0,none
+nasal irritation,1,"nasal irritation"",",ENT,throat irritation,82.75862068965517,fuzzy
+nose skin discolouration week,1,"NOSE SKIN DISCOLOURATION FOR 1 WEEK"",",Other,,0.0,none
+physiotheraphy,1,"PHYSIOTHERAPHY"",",Other,physiotheraphy,114.0,substr
+pradhiksha,1,"PRADHIKSHA"",",Other,,0.0,none
+raju,1,"RAJU DAS"",",Other,,0.0,none
+red spots armdue unknown cause,1,"red spots on upper armdue to unknown cause"",",Other,,0.0,none
+right ankle abrassion present,1,"RIGHT ANKLE ABRASSION  PRESENT"",",Injury & Trauma,abrasion,87.5,fuzzy
+right calf muscle,1,"RIGHT LEG CALF MUSCLE TODAY MORNING"",",Other,,0.0,none
+right cramp,1,"right leg cramp"",",Other,,0.0,none
+right flank,1,"RIGHT FLANK SINCE AFTERNOON"",",Other,,0.0,none
+right thum hot stream cooking,1,"PATIENT IS HAVING RIGHT THUM HOT STREAM DUE TO COOKING AT HOME"",",Other,,0.0,none
+said that he lost his memory drink alcohol,1,"PATIENT SAID THAT HE LOST HIS MEMORY & HE DRINK ALCOHOL AT 4 PM TODAY"",",Other,,0.0,none
+sarkar,1,"PATIENT CAME FOR CONSULT WITH DR MALAY SARKAR"",",Other,came consult dr malay sarkar,100.0,fuzzy
+sensless,1,"SENSLESS"",",Other,,0.0,none
+shoulder stiffnes,1,"Shoulder stiffnes"",",Other,,0.0,none
+skin discolouration nose,1,"SKIN DISCOLOURATION OF NOSE FOR 3 DAYS"",",Other,,0.0,none
+skit wheeler,1,"SKIT IN THE TWO WHEELER"",",Other,,0.0,none
+sour trought,1,"sour trought"",",Other,,0.0,none
+steam inhalation,1,"Came for steam inhalation"",",Other,steam inhalation,116.0,substr
+uncoseasness,1,"UNCOSEASNESS"",",Other,,0.0,none
+unspecified,1,"unspecified"",",Other,,0.0,none
+vertogo,1,"VERTOGO"",",Giddiness,vertigo,85.71428571428572,fuzzy
+vitamin deficiency,1,"vitamin deficiency"",",Other,,0.0,none
+xyz,1,"XYZ"",",Other,xyz,103.0,substr
